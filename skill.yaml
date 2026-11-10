@@ -1,0 +1,5 @@
+name: "cinematic_video_director"
+title: "电影短片导演"
+description: "把一个故事拆成10秒分镜逐段生成，再拼接并统一调成电影色调，产出一条完整的电影感短片。"
+category: "Media and creativity"
+include_in_prompt: true
